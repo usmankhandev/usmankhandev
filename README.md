@@ -14,9 +14,9 @@ $ whoami
 
 $ stack
 
-    🌐 Frontend: React, Next.js, Angular
     🧩 Backend: Node.js, Express.js, NestJS, FastAPI and System Design
-    ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, Terraform
+    ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, Infrastructure as a Code using Terraform
+    🌐 Frontend: React, Next.js, Angular
     🤖 AI: LLMs, LangChain, LangGraph, AutoGen, CrewAI
     🗄️ Data: PostgreSQL, MongoDB, Redis, Vector DBs
 
