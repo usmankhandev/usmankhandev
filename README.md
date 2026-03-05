@@ -6,8 +6,8 @@ I build scalable software systems and intelligent automation that help teams mov
 
 $ whoami
 
-    🧠 Senior Full-Stack & DevOps Engineer
-    🤖 AI Automation Engineer & AI Agents Builder
+    🧠 Senior Backend & DevOps Engineer
+    🤖 AI Automation Engineer & AI Agents' Builder
     💼 5+ years building production-grade systems
     ☁️ Cloud-native, DevOps-first mindset
     ⚙️ Focused on scalable, reliable, and intelligent software
