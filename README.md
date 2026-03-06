@@ -2,7 +2,7 @@
 
 I’m Usman.
 
-I build scalable software systems and intelligent automation that help teams move faster and operate smarter. My work spans full-stack engineering, cloud & DevOps, and AI-powered automation—especially LLM-driven workflows and autonomous AI agents used in real production environments.
+I build scalable software systems and intelligent automations that help teams move faster and operate smarter. My work spans backend engineering & system design, cloud & DevOps, and AI-powered automation—especially LLM-driven workflows and autonomous, in-memory AI agents used in real production environments.
 
 $ whoami
 
@@ -16,7 +16,6 @@ $ stack
 
     🧩 Backend: Node.js, Express.js, NestJS, FastAPI and System Design
     ☁️ Cloud & DevOps: AWS, Docker, Kubernetes, Infrastructure as a Code using Terraform
-    🌐 Frontend: React, Next.js, Angular
     🤖 AI: LLMs, LangChain, LangGraph, AutoGen, CrewAI
     🗄️ Data: PostgreSQL, MongoDB, Redis, Vector DBs
 
