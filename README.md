@@ -1,12 +1,12 @@
 # Hello 👋
 
-I’m Usman, a Senior DevOps & Platform Engineer, with a knack of Product System Design and Security.
+I’m Usman, a Senior DevOps & Platform Engineer, with a knack of Product System Design, Security and Customr Success.
 
 For six years I’ve built and run multi-cloud production systems: cloud-native platforms on Kubernetes, CI/CD for both modern and legacy stacks, and the infrastructure that keeps production AI reliable, from LLM gateways and tracing to vector search and multi-agent workflows.
 
 $ whoami
 
-    🛠️ Senior DevOps & Platform Engineer, backend engineering roots
+    🛠️ Senior DevOps & Platform Engineer with Product Design and Customer Success
     🤖 AI Infrastructure Engineer: LLM platforms, RAG, agents in production
     💼 6 years building and operating production systems
     🧯 Troubleshooter at heart: Kubernetes networking to IIS rapid-fail 503s
